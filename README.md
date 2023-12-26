@@ -35,4 +35,4 @@ You can change parameters in `docker-compose.yaml` file.
 
 ### Run
 
-Clone or download this repository, and run `$ docker-compose up`.
+Clone or download this repository, and run `$ docker compose up`.
